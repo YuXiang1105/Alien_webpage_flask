@@ -1,8 +1,4 @@
-Hi, welcome my first submission. 
-Made with flask and bootstrap
-The details below:
-Full name:Yu Xiang Yang Xu
-My teacher: Dr. Giuseppe Trombino
+A web page with flask and bootstrap
 
 Before using, follow the next steps:
 1-Install the virtual enviroment with the next commands:
